@@ -22,6 +22,43 @@ Through my academic projects I've worked with the **RTL-to-GDSII design flow** a
 
 ## Skills & Tools
 
+HDL & Programming
+
+Verilog, SystemVerilog, Embedded C, Python
+
+Tcl, Perl, 8051 Assembly
+
+EDA Tools
+
+Cadence Virtuoso
+
+Cadence Genus
+
+Cadence Innovus
+
+Cadence Tempus
+
+Cadence Xcelium
+
+QuestaSim, ModelSim
+
+Intel Quartus Prime
+
+VLSI & Digital Design
+
+Digital Electronics and Boolean Algebra
+
+CMOS and MOSFET Fundamentals
+
+RTL Design and Functional Verification
+
+RTL-to-GDSII Flow (academic project exposure)
+
+Static Timing Analysis (Setup and Hold)
+
+Low-Power Digital Design
+
+SRAM Circuit Design Fundamentals
 ![Verilog](https://img.shields.io/badge/Verilog_HDL-1F6FEB?style=flat-square)
 ![RTL Design](https://img.shields.io/badge/RTL_Design-6E40C9?style=flat-square)
 ![Digital Design](https://img.shields.io/badge/Digital_Electronics-0E8A16?style=flat-square)
