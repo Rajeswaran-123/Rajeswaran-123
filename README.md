@@ -22,52 +22,57 @@ Through my academic projects I've worked with the **RTL-to-GDSII design flow** a
 
 ## Skills & Tools
 
-HDL & Programming
+###  Programming Languages & Scripting
 
-Verilog, SystemVerilog, Embedded C, Python
-
-Tcl, Perl, 8051 Assembly
-
-EDA Tools
-
-Cadence Virtuoso
-
-Cadence Genus
-
-Cadence Innovus
-
-Cadence Tempus
-
-Cadence Xcelium
-
-QuestaSim, ModelSim
-
-Intel Quartus Prime
-
-VLSI & Digital Design
-
-Digital Electronics and Boolean Algebra
-
-CMOS and MOSFET Fundamentals
-
-RTL Design and Functional Verification
-
-RTL-to-GDSII Flow (academic project exposure)
-
-Static Timing Analysis (Setup and Hold)
-
-Low-Power Digital Design
-
-SRAM Circuit Design Fundamentals
 ![Verilog](https://img.shields.io/badge/Verilog_HDL-1F6FEB?style=flat-square)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-3178C6?style=flat-square)
+![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
+![Perl](https://img.shields.io/badge/Perl-39457E?style=flat-square)
+![Tcl](https://img.shields.io/badge/Tcl-4B5563?style=flat-square)
+![8051 Assembly](https://img.shields.io/badge/8051_Assembly-6B7280?style=flat-square)
+
+###  EDA Tools
+
+![Cadence Virtuoso](https://img.shields.io/badge/Cadence_Virtuoso-E4572E?style=flat-square)
+![Cadence Xcelium](https://img.shields.io/badge/Cadence_Xcelium-E4572E?style=flat-square)
+![Cadence Genus](https://img.shields.io/badge/Cadence_Genus-E4572E?style=flat-square)
+![Cadence LEC](https://img.shields.io/badge/Cadence_LEC-E4572E?style=flat-square)
+![Cadence Innovus](https://img.shields.io/badge/Cadence_Innovus-E4572E?style=flat-square)
+![Cadence Tempus](https://img.shields.io/badge/Cadence_Tempus-E4572E?style=flat-square)
+![QuestaSim](https://img.shields.io/badge/Mentor_QuestaSim-0078D4?style=flat-square)
+![ModelSim](https://img.shields.io/badge/ModelSim-0078D4?style=flat-square)
+![Intel Quartus Prime](https://img.shields.io/badge/Intel_Quartus_Prime-0071C5?style=flat-square)
+![NI Multisim](https://img.shields.io/badge/NI_Multisim-76B900?style=flat-square)
+![GTKWave](https://img.shields.io/badge/GTKWave-374151?style=flat-square)
+
+###  VLSI & Digital Design
+
 ![RTL Design](https://img.shields.io/badge/RTL_Design-6E40C9?style=flat-square)
 ![Digital Design](https://img.shields.io/badge/Digital_Electronics-0E8A16?style=flat-square)
-![Cadence](https://img.shields.io/badge/Cadence_Virtuoso-E4572E?style=flat-square)
-![Innovus](https://img.shields.io/badge/Cadence_Innovus-E4572E?style=flat-square)
-![CMOS](https://img.shields.io/badge/CMOS_Circuit_Design-F59E0B?style=flat-square)
+![ASIC Design](https://img.shields.io/badge/ASIC_Design-2563EB?style=flat-square)
+![RTL to GDSII](https://img.shields.io/badge/RTL--to--GDSII-6E40C9?style=flat-square)
 ![Physical Design](https://img.shields.io/badge/Physical_Design-374151?style=flat-square)
-![STA](https://img.shields.io/badge/Static_Timing_Analysis-0891B2?style=flat-square)
+![CMOS](https://img.shields.io/badge/CMOS_Circuit_Design-F59E0B?style=flat-square)
+![MOSFET](https://img.shields.io/badge/MOSFET_Analysis-D97706?style=flat-square)
+![Boolean Algebra](https://img.shields.io/badge/Boolean_Algebra-0E8A16?style=flat-square)
+![Static Timing Analysis](https://img.shields.io/badge/Static_Timing_Analysis-0891B2?style=flat-square)
+![Setup and Hold](https://img.shields.io/badge/Setup_and_Hold_Timing-0891B2?style=flat-square)
+![CDC](https://img.shields.io/badge/Clock_Domain_Crossing-0F766E?style=flat-square)
 ![Low Power](https://img.shields.io/badge/Low_Power_Design-16A34A?style=flat-square)
+![SRAM Design](https://img.shields.io/badge/SRAM_Circuit_Design-9333EA?style=flat-square)
+![Functional Verification](https://img.shields.io/badge/Functional_Verification-2563EB?style=flat-square)
+![Simulation](https://img.shields.io/badge/RTL_Simulation-64748B?style=flat-square)
+![Timing Constraints](https://img.shields.io/badge/Timing_Constraints-0891B2?style=flat-square)
+
+###  Soft Skills
+
+![Leadership](https://img.shields.io/badge/Leadership-0E8A16?style=flat-square)
+![Teamwork](https://img.shields.io/badge/Teamwork-2563EB?style=flat-square)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-6E40C9?style=flat-square)
+![Communication](https://img.shields.io/badge/Communication-0891B2?style=flat-square)
+![Adaptability](https://img.shields.io/badge/Adaptability-D97706?style=flat-square)
+![Time Management](https://img.shields.io/badge/Time_Management-374151?style=flat-square)
 
 ---
 
