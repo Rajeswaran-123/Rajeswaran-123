@@ -78,7 +78,7 @@ Through my academic projects I've worked with the **RTL-to-GDSII design flow** a
 
 ## Featured Projects
 
-### 1️⃣ Two-Player Electronic Dice Game: RTL to GDSII
+### 1️. Two-Player Electronic Dice Game: RTL to GDSII
 
 A two-player dice game written in **Verilog HDL** and taken through the full **RTL-to-GDSII flow**: functional simulation, synthesis, place and route, timing analysis, and DRC verification.
 
@@ -136,7 +136,7 @@ Running `check_drc` in Innovus verifies the layout against the design rules. The
 
 ---
 
-### 2️⃣ Low-Power 8T SRAM with Power Gating (90 nm CMOS)
+### 2️. Low-Power 8T SRAM with Power Gating (90 nm CMOS)
 
 A **low-power 8T SRAM cell** with a **power-gating (sleep transistor)** scheme to cut standby leakage, designed and simulated in **Cadence Virtuoso** using the **GPDK 90 nm** process at **VDD = 1 V**. I compared the cell with power gating ON and OFF.
 
