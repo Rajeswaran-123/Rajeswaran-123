@@ -1,0 +1,1 @@
+Low-power 8T SRAM cell with a power-gating sleep transistor, designed in Cadence Virtuoso (GPDK 90 nm, 1 V). Cuts average power by about 95% (1.34 µW to 64 nW) with a read SNM of 276.8 mV, verified from −40 °C to 125 °C.
