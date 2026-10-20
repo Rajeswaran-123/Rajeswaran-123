@@ -1,0 +1,1 @@
+Two-player dice game in Verilog with an LFSR-based dice (1–6), score accumulators, and a game controller. Taken through the RTL-to-GDSII flow, with a timing report showing 0 failing paths and a DRC-clean layout from Cadence Innovus.
